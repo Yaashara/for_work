@@ -54,7 +54,7 @@ gs = goslate.Goslate()
 
 def main():
 
-    token = "c5ed7a39008029e7d3fc2cb793f28ec0a3563e6d0a734680385cdf411cba9469678ad54c38387f1113ef4"
+    token = ""
 
     vk_session = vk_api.VkApi(token = token)
 
